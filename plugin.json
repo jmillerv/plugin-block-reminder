@@ -1,0 +1,8 @@
+{
+ "version": "1.0.0",
+ "title": "Adblock Reminder",
+ "description": "This plugin adds some javascript to determine if people do not have an adblocker installed and informs them that they could have an ad free browsing experience.",
+ "includes": [
+  "remind.html"
+ ]
+}
